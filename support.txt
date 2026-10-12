@@ -1,0 +1,1 @@
+--> Install typescript -- npm install -g typescript, npm install -D typescript@latest (Spefici Version)
