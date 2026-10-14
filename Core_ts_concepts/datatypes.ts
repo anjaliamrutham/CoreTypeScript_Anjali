@@ -35,7 +35,7 @@ enum Color {
     Blue = "BLUE"
 }
 // function to demonstrate usage of enum
-function getColorName(color: Color): string {
+function getColorName(color: Color): any {
 
     return color;
 }
@@ -48,14 +48,17 @@ interface Student {
 }
 
 class Student {
+
     constructor(public name: string, public age: number, public isActive: boolean) {
 
-        
     }
+
 }
 
 // Dates
 // Collections - Set, Map
+
+
 
 
 
