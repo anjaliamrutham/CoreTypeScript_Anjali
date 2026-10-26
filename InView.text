@@ -3,3 +3,20 @@ Data types
 functionInDetail
 --> What is call back function? Explain? Where it can be used in automation?
 --> Default waiting time of await ---30s
+conditional statements:
+--> Optional chaining and nullish coalescing?
+--> What are the conditional statements in ts?
+--? How you handle an element that may or may not be visible?
+--> Difference b/w if-else and ternery operator?
+--> Explain truthy and falsy values in typescript?
+--> When did you use switch statement in an automation framework?
+--> Explain difference b/w &&, ||, ! - these Opearators
+--> Diference b/w || and ??
+--> Optional chaining and conditional checks?
+--> How you will handle conditional checkbox and dropdowns?
+--> How you can skip the playwright test?
+//// Practical
+--> A popup appers only some times How you will handle it?
+--> How would you choose credentials 
+
+

@@ -1,0 +1,2 @@
+// function -  function declaration, 
+// types of function: Named functiona, Anonymous function, Function Expression, Arrow function, Void function, Returning function, Parameterized function, Function with Optional parameter, Function with default parameter, Rest parameter function, Callback function, Higher-order function, Recursive function, async function, Generic function, Overloaded function, function type/call signature, Method
